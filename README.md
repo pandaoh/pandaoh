@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> 适莽苍者，三餐而反，腹犹果然；适百里者，宿舂粮；适千里者，三月聚粮。
+
 <!--
 **pandaoh/pandaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
