@@ -7,7 +7,7 @@
 * [Blog](https://a.biugle.cn/)
 * [Tencent 社区](https://cloud.tencent.com/developer/column/101457)
 * [Gitee](https://gitee.com/doubleam)
-* [记事本](data:text/html;base64,PGh0bWwgY29udGVudGVkaXRhYmxlPmVkaXQgaGVyZTwvaHRtbD4=)
+* [记事本](http://data:text/html;base64,PGh0bWwgY29udGVudGVkaXRhYmxlPmVkaXQgaGVyZTwvaHRtbD4=)
 
 <!--
 **pandaoh/pandaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
