@@ -5,9 +5,7 @@
 ### [我们的组织-biugle](https://github.com/biugle)
 
 * [掘金](https://juejin.cn/user/2841612513448206/posts)
-* [前端文档](https://github.com/biugle/web-docs/)
 * [Tencent 社区](https://cloud.tencent.com/developer/column/101457)
-* [Gitee](https://gitee.com/doubleam)
 * [Blog](https://a.biugle.cn/)
 
 <!--
